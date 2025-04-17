@@ -1,4 +1,5 @@
 Calculadora com Flet e Python
+
 ![image](https://github.com/user-attachments/assets/44c1351d-d65a-40af-9cea-7569d5f93a81)
 
 Este projeto consiste na criação de uma calculadora utilizando o framework [Flet](https://flet.dev/) com Python. O principal objetivo foi treinar e consolidar conhecimentos em **Git**, explorando funcionalidades como `branch`, `merge`, `commit`, `git log`, `git checkout`, entre outras.
